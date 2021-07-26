@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBL7GMPA34ISSEKVK3M7ALH3KBHI2DXZW6PWNNMIAR6EDS4KILAWM3GH"
+"GA7SAL2XQHZBH2BYXCQWSZLDN6T2ROKVXXKARKBUK4YQF3HWXPGO3YJ3"
 ]
 VERSION="2.0.0"
 
@@ -16,13 +16,13 @@ ORG_OFFICIAL_EMAIL="contact@aima.com"
 
 [[CURRENCIES]]
 code="Aima16em"
-issuer="GBL7GMPA34ISSEKVK3M7ALH3KBHI2DXZW6PWNNMIAR6EDS4KILAWM3GH"
+issuer="GA7SAL2XQHZBH2BYXCQWSZLDN6T2ROKVXXKARKBUK4YQF3HWXPGO3YJ3"
 anchor_asset="false"
 name="Aima Token"
 desc="Aima Token is a friendly, community-focused ERC-18 cryptocurrency with a taste for competition. Aima Token stops harmful automated bot traders from selling or transferring their Aima, forever locking their Ethereum into the ecosystem."
 conditions=""
 image="https://i.ibb.co/QptC7tG/download.png"
-fixed_number=2000000
-max_number=2000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 #Aima Token was issued using the open and inclusive Stellar blockchain network.
