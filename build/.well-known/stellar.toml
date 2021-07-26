@@ -15,7 +15,7 @@ ORG_OFFICIAL_EMAIL="contact@aima.com"
 
 
 [[CURRENCIES]]
-code="Aima16em"
+code="AimaToken"
 issuer="GA7SAL2XQHZBH2BYXCQWSZLDN6T2ROKVXXKARKBUK4YQF3HWXPGO3YJ3"
 anchor_asset="false"
 name="Aima Token"
